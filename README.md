@@ -13,7 +13,7 @@ ALFRED is an advanced artificial intelligence framework designed to facilitate r
 1. **Installation:**
    - Clone the repository:
      ```
-     git clone https://github.com/your-username/ALFRED.git
+     git clone https://github.com/bhavy2908/alfred.git
      ```
    - Install dependencies:
      ```
